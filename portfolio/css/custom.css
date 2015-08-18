@@ -1,0 +1,51 @@
+body {
+	font-family: 'Lato', sans-serif;
+	color: #747704;
+	font-weight: 300;
+}
+
+hr {
+	height: 4px;
+	background-color: #BCBBBB;
+	margin: 5px 0px 30px;
+}
+
+.text-muted {
+	color: #BCBBBB;
+}
+
+.text-thin {
+	font-weight: 100;
+}
+
+.text-bold {
+	font-weight: bold;
+}
+
+.title-super {
+	font-size: 60px;
+}
+
+.title-addition {
+	font-size: 20px;
+}
+
+.title-logo {
+	margin: 15px 0px 10px 5px;
+}
+
+.main-pic {
+	height: auto;
+	width: 100%;
+}
+
+.title-projects {
+	padding-top: 20px;
+	padding-left: 15px;
+	font-size: 35px;
+	font-weight: bold;
+}
+
+.title-project {
+	font-size: 33px;
+}
